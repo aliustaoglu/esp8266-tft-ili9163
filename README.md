@@ -12,6 +12,8 @@ GND         GND         GND       GND
 VCC         3V3         3V3       VCC
 ```
 
+![ESP8266 TFT Screen](https://raw.githubusercontent.com/aliustaoglu/esp8266-tft-ili9163/master/images/image-1.jpg)
+
 # How to use this module
 
 npm run &lt;one of the commands below&gt;
