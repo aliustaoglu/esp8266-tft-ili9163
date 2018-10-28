@@ -1,5 +1,6 @@
 # Using Nokie 5110 Replacement module with ESP8266 & Javascript
 
+```
 Nokia-5110  NodeMCU     ESP-12    Nokia-Replacement
 LED         3V3         3V3       LED
 SCLCK       D5          GPIO14    SCK
@@ -9,6 +10,7 @@ RST         D1          GPIO05    RST
 SCE         D8          GPIO15    CS
 GND         GND         GND       GND
 VCC         3V3         3V3       VCC
+```
 
 # How to use this module
 
